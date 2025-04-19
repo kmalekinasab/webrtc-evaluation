@@ -1,2 +1,2 @@
 # webrtc-evaluation
-In this project i want evaluate Webrtc application (google meet) on the real world
+In this project i want evaluate Webrtc application (Google Meet and Microsoft Teams) on the real world
